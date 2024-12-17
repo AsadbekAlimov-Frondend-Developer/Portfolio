@@ -1,0 +1,218 @@
+.section2{
+    padding: 50px 0;
+    opacity: 0;
+    margin-top: 150px;
+    transition: 2s;
+}
+
+.service_logo {
+    text-align: center;
+    padding: 50px 0;
+    font-size: 20px;
+}
+/*  --------------------------service_logo-end-----------------*/
+.service_block_item1 .block1 {
+    width: 514px;
+    height: 450px;
+    border: 1px solid #00ffff;
+    border-radius: 10px;
+    padding: 50px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.service_block_item1 .block1:hover{
+    scale: 1.1;
+}
+
+.service_block_item1 .block1 h3 {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.service_block_item1 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.service_block_item1 .block1 h1 {
+    padding-top: 10px;
+    padding-left: 55px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* --------------block1 end----------------- */
+
+.service_block_item1 .block2 {
+    width: 514px;
+    height: 450px;
+    border: 1px solid #00ffff;
+    border-radius: 10px;
+    padding: 50px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.service_block_item1 .block2:hover{
+    scale: 1.1;
+}
+
+.service_block_item1 .block2 h3 {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.service_block_item1 .block2 h1 {
+    padding-top: 10px;
+    padding-left: 30px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+/* --------------------------------------------section_block_item1 end------------- */
+
+.service_block_item2 .block1 {
+    width: 514px;
+    height: 450px;
+    border: 1px solid #00ffff;
+    border-radius: 10px;
+    padding: 50px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.service_block_item2 .block1:hover{
+    scale: 1.1;
+}
+
+.service_block_item2 .block1 h3 {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.service_block_item2 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.service_block_item2 .block1 h1 {
+    padding-top: 10px;
+    padding-left: 60px;
+    font-size: 27px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* --------------block1 end----------------- */
+
+.service_block_item2 .block2 {
+    width: 514px;
+    height: 450px;
+    border: 1px solid #00ffff;
+    border-radius: 10px;
+    padding: 50px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.service_block_item2 .block2:hover{
+    scale: 1.1;
+}
+
+.service_block_item2 .block2 h3 {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.service_block_item2 .block2 h1 {
+    padding-top: 10px;
+    padding-left: 100px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+/* --------------------------------------------section_block_item2 end------------- */
+
+.service_block_item3 .block1 {
+    width: 514px;
+    height: 450px;
+    border: 1px solid #00ffff;
+    border-radius: 10px;
+    padding: 50px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.service_block_item3 .block1:hover{
+    scale: 1.1;
+}
+
+.service_block_item3 .block1 h3 {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.service_block_item3 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.service_block_item3 .block1 h1 {
+    padding-top: 10px;
+    padding-left: 40px;
+    font-size: 27px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* --------------block1 end----------------- */
+
+.service_block_item3 .block2 {
+    width: 514px;
+    height: 450px;
+    border: 1px solid #00ffff;
+    border-radius: 10px;
+    padding: 50px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.service_block_item3 .block2:hover{
+    scale: 1.1;
+}
+
+.service_block_item3 .block2 h3 {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.service_block_item3 .block2 h1 {
+    padding-top: 10px;
+    padding-left: 80px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}

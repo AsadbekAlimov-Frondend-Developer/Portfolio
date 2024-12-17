@@ -1,0 +1,31 @@
+.discuss{
+    margin: 20px 0;
+}
+
+.discuss .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid aqua;
+    border-radius: 20px;
+    padding: 100px;
+}
+
+.discuss .item1 h1{
+    padding:10px 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.discuss .item1 p{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.discuss .item2 .item2_btn{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: aqua;
+    border: none;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

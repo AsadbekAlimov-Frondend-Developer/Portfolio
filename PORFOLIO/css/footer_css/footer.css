@@ -1,0 +1,163 @@
+.contact .container{
+    opacity: 0;
+    margin-top: 100px;
+    transition: 1s;
+}
+
+.section2 {
+    padding: 50px 0;
+    opacity: 0;
+    margin-top: 150px;
+    transition: 2s;
+}
+
+.contact_logo {
+    text-align: center;
+    padding: 50px 0;
+    font-size: 20px;
+}
+
+.contact_logo h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.contact_logo h4{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.contact_block_item .block1 {
+    width: 314px;
+    height: 314px;
+    border: 1px solid #00ffff;
+    border-radius: 10px;
+    padding: 40px;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+
+.contact_block_item .block1 .btn {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 90px;
+    cursor: pointer;
+    border: none;
+    background-color: aqua;
+}
+
+.contact_block_item .block1 .btn:hover {
+    background-color: white;
+}
+
+.contact_block_item {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.contact_block_item .block1 h1 {
+    padding-top: 10px;
+    padding-left: 60px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.contact_block_item .block1 h2 {
+    padding-top: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+/* --------------block1 end----------------- */
+
+
+.contact_block_item .block2 {
+    width: 314px;
+    height: 314px;
+    border: 1px solid #00ffff;
+    border-radius: 10px;
+    padding: 40px;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+
+.contact_block_item .block2 .btn {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 90px;
+    cursor: pointer;
+    border: none;
+    background-color: aqua;
+}
+
+.contact_block_item .block2 .btn:hover {
+    background-color: white;
+}
+
+.contact_block_item .block2 h1 {
+    padding-top: 10px;
+    padding-left: 75px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.contact_block_item .block2 h2 {
+    padding-top: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+/* --------------block2 end----------------- */
+.contact_block_item .block3 {
+    width: 314px;
+    height: 314px;
+    border: 1px solid #00ffff;
+    border-radius: 10px;
+    padding: 40px;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+
+.contact_block_item .block3 .btn {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 90px;
+    cursor: pointer;
+    border: none;
+    background-color: aqua;
+}
+
+.contact_block_item .block3 .btn:hover {
+    background-color: white;
+}
+
+.contact_block_item .block3 h1 {
+    padding-top: 10px;
+    padding-left: 60px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.contact_block_item .block3 h3 {
+    padding-top: 18px;
+    font-size: 23px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.end_Porfolio{
+    text-align: center;
+    padding: 50px 0 0 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* --------------block3 end----------------- */
